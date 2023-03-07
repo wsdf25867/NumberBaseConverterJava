@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter (Java)/task/build/
+/Number Base Converter (Java)/task/out/
+/Number Base Converter (Java)/task/out/production/classes/
